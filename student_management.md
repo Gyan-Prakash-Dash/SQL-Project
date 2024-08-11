@@ -1,6 +1,4 @@
-# Student Database Management
-
-[Download Source Code for Student Database Management](student_management.sql)
+# SQL Project Of Student Database Management
 
 ```sql
 DROP SCHEMA IF EXISTS student_management CASCADE;
