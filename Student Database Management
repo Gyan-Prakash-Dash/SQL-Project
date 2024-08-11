@@ -1,4 +1,4 @@
-# **SQL Project Of Student Database Management**
+# SQL Project Of Student Database Management
 
 ```sql
 DROP SCHEMA IF EXISTS student_management CASCADE;
